@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "947129873286",
+    "firebase_url": "https://cheddareknabel-7afcd.firebaseio.com",
+    "project_id": "cheddareknabel-7afcd",
+    "storage_bucket": "cheddareknabel-7afcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947129873286:android:5cf418f0e639b2bfd37207",
+        "android_client_info": {
+          "package_name": "com.example.cheddarekk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947129873286-935kj51q17ks158hjrhighk54ovjcd16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_6IqrsDZM7fdQdryRdiuDc2jO3hpmydo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947129873286-935kj51q17ks158hjrhighk54ovjcd16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947129873286:android:d907d1fe643eeaf6d37207",
+        "android_client_info": {
+          "package_name": "com.nabel.cheddarek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947129873286-935kj51q17ks158hjrhighk54ovjcd16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_6IqrsDZM7fdQdryRdiuDc2jO3hpmydo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947129873286-935kj51q17ks158hjrhighk54ovjcd16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
